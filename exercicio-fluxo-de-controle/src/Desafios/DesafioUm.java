@@ -77,7 +77,7 @@ public class DesafioUm {
      *
      */
     private void validarMes(int mes) {
-
+        this.valida_mes = true;
         if (mes > 12 || mes < 1) {
             this.valida_mes = false;
         }
