@@ -1,6 +1,6 @@
 # DETALHES DA ATIVIDADE PROPOSTA
 
-## 1. Calcule as 4 operacoes basicas
+## 1. Calcule as 4 operacao basicas
 
 - Soma
 - Subtracao
